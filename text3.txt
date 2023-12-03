@@ -1,2 +1,3 @@
 This is after a long day
-Its "day" nnot "days"
+Its "day" not "days"
+now its right
